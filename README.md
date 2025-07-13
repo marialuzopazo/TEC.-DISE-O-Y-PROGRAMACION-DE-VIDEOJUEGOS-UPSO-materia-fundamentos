@@ -9,7 +9,7 @@ Universidad Provincial del Sudoeste (UPSO)
 ## ¡Bienvenidos/as! 👋 Este repositorio reúne todo el contenido que voy desarrollando para la materia Fundamentos de Programación en Videojuegos, cursada en la UPSO. Aquí vas a encontrar:
 
 ### 🧠 Apuntes teóricos explicados de forma clara y simple
-### 💻 Ejercicios resueltos (según la consigna)
+### 💻 Ejercicios 
 ### 📂 Proyectos prácticos relacionados con el desarrollo de videojuegos
 
 ### 🎯 Objetivo del repositorio
